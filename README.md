@@ -7,9 +7,6 @@ la Universidad Sergio Arboleda y el MinTic
 
 Solo copiar y pegar en tu editor de codigo local o en un editor online.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 ninguno
